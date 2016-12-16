@@ -1,4 +1,3 @@
-import pylast
 import vk
 import time
 import argparse
