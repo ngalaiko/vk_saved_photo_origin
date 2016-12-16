@@ -2,7 +2,7 @@
 Deamon to move VK photos from "saved" album to defined
 #Install:
 ```
-git clone https://github.com/ngalayko/last.fm_to_VK
+git clone https://github.com/ngalayko/vk_saved_photo_origin
 pip3 install vk
 ```
 #Run:
