@@ -3,7 +3,7 @@ Deamon to move VK photos from "saved" album to defined and marks them with defin
 #Install:
 ```
 git clone https://github.com/ngalayko/vk_saved_photo_origin
-pip3 install -i requirements.txt 
+pip3 install -r requirements.txt 
 ```
 #Run:
 ```
