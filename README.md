@@ -7,5 +7,5 @@ pip3 install -r requirements.txt
 ```
 #Run:
 ```
-python3 run.py -vl <vk_login> -vp <vk_password> -va <target_album_id> -t<annotation_text>
+python3 run.py -vl <vk_login> -vp <vk_password> -va <target_album_id> -t <annotation_text>
 ```
